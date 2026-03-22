@@ -23,7 +23,7 @@ E-commerce de cartinhas inspiradas no jogo Magic, com ferramentas como filtros d
 </p>
 
 
-<a href="https://kethillen-dev.github.io/projeto-magickai/" target="_blank">Veja o projeto clicando aqui</a>
+<a href="https://kethillen-dev.github.io/projeto-magickia/" target="_blank">Veja o projeto clicando aqui</a>
 
 Feito com ♥ by K.Dev
 
